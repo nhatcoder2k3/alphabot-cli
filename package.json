@@ -1,0 +1,39 @@
+{
+  "name": "alphabot-cli",
+  "version": "1.0.0",
+  "description": "Alphabot's command line tool, Nhatcoder2k3's simple Facebook Messenger automated bot for groups",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhatcoder2k3/alphabot-cli.git"
+  },
+  "keywords": [
+    "Facebook",
+    "Messenger",
+    "Command",
+    "Line",
+    "Tools",
+    "Simple",
+    "bot",
+    "bot",
+    "botchat",
+    "aphabot",
+    "alphabot-cli"
+  ],
+  "author": "Nhatcoder2k3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhatcoder2k3/alphabot-cli/issues"
+  },
+  "homepage": "https://github.com/nhatcoder2k3/alphabot-cli#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.1.1",
+    "minimist": "^1.2.8",
+    "pkg-dir": "^7.0.0"
+  }
+}
